@@ -15,16 +15,13 @@ We used two nails as moisture sensors and a light sensor. The two nails are to b
 
 ## Component Parts
 
-From what pieces did you build your project?
-
 We used an Adafruit Feather 32u4, two breadboards, two nails, one light sensor, one switch and one Neopixel Stick.
 
 The input data includes moisture value from the nails and light value from the light sensors, as well as the value of the switch for the Neopixel Stick.
 
 The output data include the code and the light levels indicated on the Stick.
 
-![Diagram](https://github.com/gdai98/p-and-e-final-project-spring-2018/diagram.jpg)
-
+![alt text](https://github.com/gdai98/p-and-e-final-project-spring-2018/diagram.jpg)
 
 ## Challenges
 
