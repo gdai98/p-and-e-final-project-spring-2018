@@ -23,9 +23,7 @@ The input data includes moisture value from the nails and light value from the l
 
 The output data include the code and the light levels indicated on the Stick.
 
-![Diagram](https://raw.githubusercontent.com/gdai98/p-and-e-final-project-spring-2018/diagram.jpg)
-
-![Alt text](p-and-e-final-project-spring-2018/diagram.jpg?raw=true "Title")
+![Diagram](https://github.com/gdai98/p-and-e-final-project-spring-2018/diagram.jpg)
 
 
 ## Challenges
